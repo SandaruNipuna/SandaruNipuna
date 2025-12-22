@@ -1,9 +1,9 @@
 # Hi there 👋, I'm Sandaru!
 
 ## 🔭 About Me
-- 🎓 Student at SLIIT, specializing in Data Science
-- 💻 Interested in programming, databases, and AI
-- 🌱 Currently learning advanced Data Science topics
+- 🎓 Student at SLIIT, specializing in Data Science.
+- 💻 Interested in programming, databases, and AI.
+- 🌱 Currently learning advanced Data Science topics.
 
 ## 📫 Connect with me
 [![X](https://img.shields.io/badge/-blue?logo=X&style=for-the-badge)](https://x.com/sandaru1177)
@@ -17,3 +17,5 @@
 
 ## 📊 GitHub Stats
 ![Sandaru's GitHub stats](https://github-readme-stats.vercel.app/api?username=SandaruNipuna&show_icons=true&theme=radical)
+
+Thank you i like to do more changes.
