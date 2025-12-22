@@ -16,4 +16,4 @@
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
 ## 📊 GitHub Stats
-![Sandaru's GitHub stats](https://github-readme-stats.vercel.app/api?username=sandaru1177&show_icons=true&theme=radical)
+![Sandaru's GitHub stats](https://github-readme-stats.vercel.app/api?username=SandaruNipuna&show_icons=true&theme=radical)
